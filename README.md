@@ -17,7 +17,7 @@ The goal of the project was to explore patterns in social media activity related
 - DAX - Used to create calculated columns and measures
 - Canva - Used to design visual elements and improve the presentation of the dashboard
 
-## 🛈 Data Source
+## 💾 Data Source
 - Source: data.world
 - File type: CSV
 - Data structure: One table
