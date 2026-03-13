@@ -1,5 +1,5 @@
 # New-Year-Resolutions-Tweets-Dashboard
-## Interactive dashboard analyzing New Year Resolution tweets from 2015 containing 4,723 records.
+## Interactive dashboard analyzing New Year Resolutions tweets from 2015 containing 4,723 records.
 
 ## Short Description
 This project presents an interactive Power BI dashboard analyzing Twitter posts related to New Year resolutions in 2015.
@@ -20,7 +20,7 @@ The goal of the project was to explore patterns in social media activity related
 ## Data Source
 - Source: data.world
 - File type: CSV
-- Data stracture: One table
+- Data structure: One table
 - Number of records: 4723
 
 ## Key Questions
@@ -29,12 +29,15 @@ The dashboard helps answer several interesting questions about New Year resoluti
 - What was the least popular resolution category?
 - Which category produced the most engagement?
 - When were users most active during the day?
-- What were the regional differences in twitter activity during NY holidays?
+- What were the regional differences in Twitter activity during NY holidays?
 
-Each question can be further examined by provided filtering by: date & state, which allows deeper exploration of tweet patterns.
+Each question can be further explored using filters for date and state.
 
 ## Preview
-- ![Dashboard Preview](https://github.com/radektadla/New-Year-Resolutions-Tweets-Dashboard/blob/main/Dashboard%20preview.png)
-- ![Dashboard filtered to the top 5 most populated states and New Year dates](https://github.com/radektadla/New-Year-Resolutions-Tweets-Dashboard/blob/main/Top5%20States%20on%20NY.png)
+Dashboard without any filters applied:
+![Dashboard Preview](https://github.com/radektadla/New-Year-Resolutions-Tweets-Dashboard/blob/main/Dashboard%20preview.png)
+
+Dashboard filtered to the top 5 most populated states and New Year dates:
+![Dashboard filtered to the top 5 most populated states and New Year dates](https://github.com/radektadla/New-Year-Resolutions-Tweets-Dashboard/blob/main/Top5%20States%20on%20NY.png)
 
 Thank you for reading and checking out my project!
