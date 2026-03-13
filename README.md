@@ -12,10 +12,10 @@ The goal of the project was to explore patterns in social media activity related
 - Engagement measured by retweets
 
 ## Tools Used
-- Power BI - Main data visualization platform used for dashboard creation.
-- Power Query - Data transformation and cleaning.
-- DAX - Used to create calculated columns and measures.
-- Canva - Used to design visual elements and improve the presentation of the dashboard.
+- Power BI - Main data visualization platform used for dashboard creation
+- Power Query - Data transformation and cleaning
+- DAX - Used to create calculated columns and measures
+- Canva - Used to design visual elements and improve the presentation of the dashboard
 
 ## Data Source
 - Source: data.world
