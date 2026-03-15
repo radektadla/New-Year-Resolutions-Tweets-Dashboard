@@ -1,5 +1,5 @@
 # New-Year-Resolutions-Tweets-Dashboard
-## Interactive dashboard analyzing New Year Resolutions tweets from 2015 containing 4,723 records.
+## Interactive dashboard analyzing New Year Resolutions tweets from 2015 created in Power BI.
 
 ## 📝 Short Description
 This project presents an interactive Power BI dashboard analyzing Twitter posts related to New Year resolutions in 2015.
