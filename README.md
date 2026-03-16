@@ -40,6 +40,9 @@ Dashboard without any filters applied:
 Dashboard filtered to the top 5 most populated states and New Year dates:
 ![Dashboard filtered to the top 5 most populated states and New Year dates](https://github.com/radektadla/New-Year-Resolutions-Tweets-Dashboard/blob/main/Top5%20States%20on%20NY.png)
 
+Dashboard filtering video presentation:
+![Dashboard](https://github.com/radektadla/New-Year-Resolutions-Tweets-Dashboard/blob/main/Dashboard.gif)
+
 -----------
 
 Thank you for reading and checking out my project!
