@@ -35,13 +35,13 @@ Each question can be further explored using filters for date and state.
 
 ## 🖼️ Preview
 Dashboard without any filters applied:
-![Dashboard Preview](https://github.com/radektadla/New-Year-Resolutions-Tweets-Dashboard/blob/main/Dashboard%20preview.png)
+![Dashboard Preview](https://github.com/radektadla/New-Year-Resolutions-Tweets-Dashboard/blob/main/Dashboard%20Preview/Dashboard%20preview.png)
 
 Dashboard filtered to the top 5 most populated states and New Year dates:
-![Dashboard filtered to the top 5 most populated states and New Year dates](https://github.com/radektadla/New-Year-Resolutions-Tweets-Dashboard/blob/main/Top5%20States%20on%20NY.png)
+![Dashboard filtered to the top 5 most populated states and New Year dates](https://github.com/radektadla/New-Year-Resolutions-Tweets-Dashboard/blob/main/Dashboard%20Preview/Top5%20States%20on%20NY.png)
 
 Dashboard filtering video presentation:
-![Dashboard](https://github.com/radektadla/New-Year-Resolutions-Tweets-Dashboard/blob/main/Dashboard.gif)
+![Dashboard](https://github.com/radektadla/New-Year-Resolutions-Tweets-Dashboard/blob/main/Dashboard%20Preview/Dashboard.gif)
 
 -----------
 
